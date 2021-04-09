@@ -40,7 +40,7 @@ def get_prediction():
         # Error if model instance not found
         return ("Model could not be loaded"), 404
     
-    # Model instance found - Return prediction by mapping numeric label to corresponding intonation
+    # Return prediction by mapping predicted numeric label to corresponding intonation
     if prediction[0]==1:  
         return ("Prediction for intonation is: "+"Question"), 200
     elif prediction[0]==2:
