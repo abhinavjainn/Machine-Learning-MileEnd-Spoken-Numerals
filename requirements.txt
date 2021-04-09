@@ -6,3 +6,5 @@ requests
 requests_cache
 scikit-learn==0.22.2.post1
 numpy
+Flask-SQLAlchemy
+psycopg2
