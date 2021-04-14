@@ -20,5 +20,6 @@ This repository also contains the supporting csv and txt files used during model
 The final chosen model was deployed as a Rest API on Heroku cloud platform. This repository contains the required python and Heroku configuration files.
 
 Application URL: https://mile-end-spoken-numerals.herokuapp.com/
+
 Endpoint: /predict-intonation
 
