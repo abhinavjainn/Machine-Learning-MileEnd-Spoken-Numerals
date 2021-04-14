@@ -17,9 +17,8 @@ To summarize this part, several spectral (spectral centroid, bandwidth etc.) and
 This repository also contains the supporting csv and txt files used during model building.
 
 # Deployment
-The final chosen model was deployed as a Rest API on Heroku cloud platform. This repository contains the required python and Heroku configuration files.
+The final chosen model was deployed as a Rest API on Heroku cloud platform. This repository contains the required python and Heroku configuration files. All the predictions made by this model are logged in the database which can be used to further improve model's performance.
 
 Application URL: https://mile-end-spoken-numerals.herokuapp.com/
 
 Endpoint: /predict-intonation
-
