@@ -6,7 +6,7 @@ This project has three major parts:
 3. Deploying the model as a backend Rest API over internet using a cloud platform.
 
 # Dataset creation
-Dataset was developed by the School of Electonics Engineering & Computer Science of the Queen Mary University of London. Roughly 185 postgraduate students conrbiuted wth audio clips. Audio clips were further separated, cleaned and published by the team led by Dr. Jesus Requena-Carrion. Audio clips contain different numbers spoken by students in different intonations viz. Excited, Bored, Question and Neutral.
+Dataset was developed by the School of Electonics Engineering & Computer Science of the Queen Mary University of London. Roughly 185 postgraduate students contributed wth audio clips. Audio clips were further separated, cleaned and published by the team led by Dr. Jesus Requena-Carrion. Audio clips contain different numbers spoken by students in different intonations viz. Excited, Bored, Question and Neutral.
 
 Dataset URL: https://collect.qmul.ac.uk/down?t=4LO0R0TSLPGGHJPC/45O137K56GGVDFUT9AH4ST0
 
